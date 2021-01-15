@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <title>REPLACE_ME</title>
+    <title>Wesley Bailey's Website</title>
   </head>
   <body>
     <div class="container">
