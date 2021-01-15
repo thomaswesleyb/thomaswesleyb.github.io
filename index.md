@@ -1,7 +1,9 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <title>Wesley Bailey's Website</title>
+    <title>
+      Wesley Bailey's Website
+    </title>
   </head>
   <body>
     <div class="container">
