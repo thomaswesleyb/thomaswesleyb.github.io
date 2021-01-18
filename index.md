@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+
 <html>
   <head>
     <title>
@@ -17,8 +17,11 @@
         <li>
           <a href="https://github.com/thomaswesleyb">github.com/thomaswesleyb</a>
         </li>
-        <li> 
-          about
+      </ul>
+      <h3>Skills:</h3>
+      <ul>
+        <li>
+          Java  
         </li>
       </ul>
     </footer>
