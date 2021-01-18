@@ -18,10 +18,25 @@
           <a href="https://github.com/thomaswesleyb">github.com/thomaswesleyb</a>
         </li>
       </ul>
-      <h3>Skills:</h3>
+      <h3>Languages:</h3>
       <ul>
         <li>
           Java  
+        </li>
+        <li>
+          R
+        </li>
+        <li>
+          Python
+        </li>
+        <li>
+          C
+        </li>
+        <li>
+          JavaScript
+        </li>
+        <li>
+          HTML/CSS
         </li>
       </ul>
     </footer>
