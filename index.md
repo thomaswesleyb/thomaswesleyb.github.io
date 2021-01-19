@@ -20,24 +20,12 @@
       </ul>
       <h3>Languages:</h3>
       <ul>
-        <li>
-          Java  
-        </li>
-        <li>
-          R
-        </li>
-        <li>
-          Python
-        </li>
-        <li>
-          C
-        </li>
-        <li>
-          JavaScript
-        </li>
-        <li>
-          HTML/CSS
-        </li>
+        <li> Java </li>
+        <li> R </li>
+        <li> Python </li>
+        <li> C </li>
+        <li> JavaScript </li>
+        <li> HTML/CSS </li>
       </ul>
       Projects:
       <ul>
@@ -47,7 +35,6 @@
         <li> Script interfacing to create dynamic event scheduling between google docs and google calendar </li>
         <li> Chat app using node.js and Firebase </li>
         <li> Compilation of Russian idiom database <li>
-      
       </ul>
         
     </footer>
