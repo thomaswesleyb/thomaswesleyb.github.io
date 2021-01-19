@@ -37,6 +37,6 @@
         <li> Compilation of Russian idiom database <li>
       </ul>
         
-    </footer>
+   </footer>
   </body>
 </html>
