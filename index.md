@@ -27,7 +27,7 @@
         <li> JavaScript </li>
         <li> HTML/CSS </li>
       </ul>
-      Projects:
+      <h3> Projects: </h3>
       <ul>
         <li> Sentiment analysis of 200k tweets using RStudio </li>
         <li> Pong game with P2P networking </li>
