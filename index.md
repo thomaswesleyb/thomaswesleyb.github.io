@@ -46,7 +46,7 @@
         <li> Piano </li>
         <li> Chess </li>
         <li> Dungeons and Dragons </li>
-        
+      </ul>
    </footer>
   </body>
 </html>
