@@ -37,6 +37,15 @@
         <li> Compilation of Russian idiom database </li>
         <li> Variant Initiative tracker for D&D in Java </li>
       </ul>
+      <h3> Other Interests: </h3>
+      <ul>
+        <li> Russian culture </li>
+        <li> Chinese culture </li>
+        <li> Well, any foreign culture and language actually. Some other highlights: French, Korean, Ukrainian </li>
+        <li> Machine learning libraries </li>
+        <li> Piano </li>
+        <li> Chess </li>
+        <li> Dungeons and Dragons </li>
         
    </footer>
   </body>
