@@ -32,7 +32,6 @@
         <li> Sentiment analysis of 200k tweets using RStudio </li>
         <li> Pong game with P2P networking </li>
         <li> Website for Russian language learning at <a href="https://sites.google.com/a/sewanee.edu/slavophilenet/">slavophile.net</a> </li>
-        <li> Script interfacing to create dynamic event scheduling between google docs and google calendar </li>
         <li> Compilation of Russian idiom database using web scraping with python</li>
         <li> Variant Initiative tracker for D&D in Java </li>
       </ul>
