@@ -8,10 +8,12 @@
   <body>
     <div class="container">
       <div class="blurb">
-        <h1>Welcome to my website! I'm T. Wesley Bailey</h1>
+        <h1>Welcome to my website! I'm Wesley</h1>
       </div>
     </div>
     <footer>
+      <p>
+        This website is for showcasing my personal projects and blogging about my computer science journey. I am an aspiring software developer and in my fourth year at Sewanee: The University of the South.
       <ul>
         <li><a href="mailto:weschess@yahoo.com">email</a></li>
         <li>
