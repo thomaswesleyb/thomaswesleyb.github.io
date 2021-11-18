@@ -25,11 +25,15 @@
       <h3>Languages:</h3>
       <ul>
         <li> Java </li>
-        <li> R </li>
         <li> Python </li>
+        <li> R </li>
         <li> C </li>
         <li> JavaScript </li>
         <li> HTML/CSS </li>
+      </ul>
+      <h3> Work Experience: </h3>
+      <ul>
+        <li> 2021 - Euclidian Trust Internship </li>
       </ul>
       <h3> Projects: </h3>
       <ul>
