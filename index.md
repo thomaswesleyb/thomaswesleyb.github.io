@@ -20,7 +20,7 @@
           <a href="mailto:weschess@yahoo.com">email</a>
         </li>
         <li>
-          [blog](google.com)
+          <a href="thomaswesleyb.github.io/blog">blog</a>
         </li>
         <li>
           <a href="https://github.com/thomaswesleyb">github</a>
