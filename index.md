@@ -15,13 +15,18 @@
       <p>
         This website is for showcasing my personal projects and blogging about my computer science journey. I am an aspiring software developer and in my fourth year at Sewanee: The University of the South.
       <ul>
-        <li><a href="mailto:weschess@yahoo.com">email</a></li>
-        <li> <a href="blog">blog</a>
+        <li>
+          <a href="mailto:weschess@yahoo.com">email</a>
+        </li>
+        <li>
+          <a href="blog">blog</a> 
+        </li>
         <li>
           <a href="https://github.com/thomaswesleyb">github</a>
         </li>
         <li>
           <a href="https://www.instagram.com/probablywesley/">instagram</a> (where I post my travel stuff)
+        </li>
       </ul>
       <h3>Languages:</h3>
       <ul>
