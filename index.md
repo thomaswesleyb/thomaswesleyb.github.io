@@ -35,8 +35,12 @@
         <li> R </li>
         <li> C </li>
         <li> JavaScript </li>
-        <li> HTML/CSS </li>
       </ul>
+      <h3>Technologies</h3>
+      <ul>
+        <li> SQL </li>
+        <li> Postgresql </li>
+        <li> Firebase </li>
       <h3> Work Experience: </h3>
       <ul>
         <li> 2021 - Euclidian Trust Internship </li>
