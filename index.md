@@ -6,7 +6,6 @@
     </title>
   </head>
   <body>
-    #test
     <div class="container">
       <div class="blurb">
         <h1>Welcome to my website! I'm Wesley</h1>
