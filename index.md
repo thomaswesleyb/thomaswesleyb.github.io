@@ -24,9 +24,6 @@
         <li>
           <a href="https://github.com/thomaswesleyb">github</a>
         </li>
-        <li>
-          <a href="https://www.instagram.com/probablywesley/">instagram</a> (where I post my travel stuff)
-        </li>
       </ul>
       <h3>Languages:</h3>
       <ul>
