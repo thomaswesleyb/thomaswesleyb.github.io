@@ -52,12 +52,10 @@
       </ul>
       <h3> Other Interests: </h3>
       <ul>
-        <li> Russian culture </li>
-        <li> Chinese culture </li>
-        <li> Well, any foreign culture and language actually. Some other highlights: French, Korean, Ukrainian </li>
-        <li> Machine learning libraries </li>
+        <li> Russian, Korean, Chinese language/literature </li>
         <li> Piano </li>
-        <li> Chess </li>
+        <li> <a href="https://lichess.org/@/twesleyb"> Chess </a> </li>
+        <li> <a href="https://steamcommunity.com/profiles/76561198139511026"> Video Games </a> </li>
         <li> Dungeons and Dragons </li>
       </ul>
    </footer>
