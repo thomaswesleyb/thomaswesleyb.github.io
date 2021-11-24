@@ -40,10 +40,10 @@
         <li> Firebase   </li>
       <h3> Work Experience: </h3>
       <ul>
-        <li> Summer 2021 - Euclidian Trust Internship </li>
-        <li> Summer 2020 - Sewanee Research Fellow    </li>
-        <li>  2019-2022  - Russian Tutor              </li>
-        <li>  2019-2022  - Public Speaking Tutor      </li>
+        <li> <b> Summer 2021 - Euclidian Trust Internship </b> </li>
+        <li> Summer 2020 - Sewanee Research Fellow             </li>
+        <li>  2019-2022  - Russian Tutor                       </li>
+        <li>  2019-2022  - Public Speaking Tutor               </li>
       </ul>
       <h3> Projects: </h3>
       <ul>
