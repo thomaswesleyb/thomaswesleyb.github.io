@@ -28,16 +28,24 @@
       <h3>Languages:</h3>
       <ul>
         <li> Java       </li>
-        <li> Python     </li>
+        <li> JavaScript     </li>
         <li> R          </li> 
         <li> C          </li>
-        <li> JavaScript </li>
+        <li> Python </li>
       </ul>
-      <h3>Technologies</h3>
+      <h3>Database Technologies</h3>
       <ul>
         <li> SQL        </li>
-        <li> Postgresql </li>
+        <li> Elasticsearch </li>
+        <li> Postgres </li>
         <li> Firebase   </li>
+      <h3>Frameworks</h3>
+        <li> React.js </li>
+      <h3>Other Technologies</h3>
+        <li> Jenkins </li>
+        <li> Datadogs </li>
+        <li> Splunk </li>
+        <li> Git </li>
       <h3> Work Experience: </h3>
       <ul>
         <li> <b> Summer 2022-Present - Cvent Software Engineer 1 </b> </li>
