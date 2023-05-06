@@ -56,11 +56,12 @@
       </ul>
       <h3> Other Interests: </h3>
       <ul>
-        <li> Travel - I've been to Russia and South Korea, and hope to travel more </li>
+        <li> Travel - I've been to Russia, South Korea, and Poland, and hope to travel more </li>
         <li> Foreign language/literature </li>
         <li> Piano </li>
+        <li> Martial Arts </li>
         <li> <a href="https://lichess.org/@/twesleyb"> Chess </a> </li>
-        <li> <a href="https://steamcommunity.com/profiles/76561198139511026"> Video Games </a> </li>
+        <li> <a href="https://steamcommunity.com/profiles/76561198139511026"> Gaming </a> </li>
         <li> Dungeons and Dragons </li>
       </ul>
    </footer>
