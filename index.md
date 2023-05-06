@@ -13,7 +13,7 @@
     </div>
     <footer>
       <p>
-        This website is for showcasing my personal projects and blogging about my computer science journey. I am an aspiring software developer and in my fourth year at Sewanee: The University of the South.
+        This website is for showcasing my personal projects and blogging about my computer science journey. I currently work as a Software Engineer at Cvent. I went to Sewanee: The University of the South for my undergraduate degree.
       <ul>
         <li>
           <a href="mailto:twesleybailey@gmail.com">email</a>
