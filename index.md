@@ -64,6 +64,3 @@
         <li> <a href="https://steamcommunity.com/profiles/76561198139511026"> Gaming </a> </li>
         <li> Dungeons and Dragons </li>
       </ul>
-   </footer>
-  </body>
-</html>
