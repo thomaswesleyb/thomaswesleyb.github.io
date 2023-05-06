@@ -56,6 +56,7 @@
       </ul>
       <h3> Projects: </h3>
       <ul>
+        <li> Various js modules for FoundryVTT                                   </li>
         <li> Sentiment analysis of 200k tweets using RStudio                     </li>
         <li> Pong game with P2P networking                                       </li>
         <li> Website for Russian language learning at <a href="https://sites.google.com/a/sewanee.edu/slavophilenet/">slavophile.net</a>  </li>
