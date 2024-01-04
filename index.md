@@ -19,9 +19,6 @@
           <a href="mailto:twesleybailey@gmail.com">email</a>
         </li>
         <li>
-          <a href="/blog">blog</a>
-        </li>
-        <li>
           <a href="https://github.com/thomaswesleyb">github</a>
         </li>
       </ul>
