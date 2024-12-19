@@ -18,6 +18,7 @@ export default function Navbar() {
                     <li><Link to="/" className="hover:text-neutral-400">Home</Link></li>
                     <li><Link to="/about" className="hover:text-neutral-400">About</Link></li>
                     <li><Link to="/projects" className="hover:text-neutral-400">Projects</Link></li>
+                    <li><Link to="/experience" className="hover:text-neutral-400">Experience</Link></li>
                     <li><Link to="/contact" className="hover:text-neutral-400">Contact</Link></li>
                 </ul>
             </div>
@@ -26,6 +27,7 @@ export default function Navbar() {
                     <li><Link to="/" className="hover:text-neutral-400">Home</Link></li>
                     <li><Link to="/about" className="hover:text-neutral-400">About</Link></li>
                     <li><Link to="/projects" className="hover:text-neutral-400">Projects</Link></li>
+                    <li><Link to="/experience" className="hover:text-neutral-400">Experience</Link></li>
                     <li><Link to="/contact" className="hover:text-neutral-400">Contact</Link></li>
                 </ul>
             )}

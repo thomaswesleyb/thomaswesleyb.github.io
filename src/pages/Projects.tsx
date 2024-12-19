@@ -7,7 +7,10 @@ export default function Projects() {
             </div>
             <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8 px-8">
                 <div className="border border-neutral-300 rounded hover:shadow-lg transition-shadow">
-                    <img src="/src/assets/russianidioms.png" alt="Russian Idioms Website" className="w-full h-48 object-cover rounded-t" />
+                    <a href={"https://russianidioms.com"} target="_blank">
+                        <img src="/src/assets/russianidioms.png" alt="Russian Idioms Website"
+                             className="w-full h-48 object-cover rounded-t"/>
+                    </a>
                     <div className="p-4">
                         <h3 className="text-xl font-semibold text-black">Russian Idioms</h3>
                         <p className="text-neutral-600">This application serves as a database for Russian Idioms, where users can submit new idioms, study existing idioms, add idioms to their collection, and more!</p>
