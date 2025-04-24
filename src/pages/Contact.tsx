@@ -1,6 +1,5 @@
 export default function Contact() {
     const handleSubmit = () => {
-        // Handle email send
 
     }
 
@@ -8,7 +7,7 @@ export default function Contact() {
         <section className="py-12 bg-black text-white text-center">
             <h2 className="text-4xl font-bold mb-6">Contact Me</h2>
             <p className="text-neutral-400 max-w-md mx-auto mb-6">
-                Have a project in mind or just want to say hello? Reach out to me!
+                Have a project in mind or just want to say hello? Feel free to reach out.
             </p>
             <form className="flex flex-col items-center space-y-4">
                 <input

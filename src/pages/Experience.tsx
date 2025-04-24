@@ -12,13 +12,26 @@ export default function Experience() {
                         className="vertical-timeline-element--work"
                         contentStyle={{ background: 'rgb(33, 150, 243)', color: '#fff' }}
                         contentArrowStyle={{ borderRight: '7px solid  rgb(33, 150, 243)' }}
+                        date="2025 - present"
+                        iconStyle={{ background: 'rgb(33, 150, 243)', color: '#fff' }}
+                    >
+                        <h3 className="vertical-timeline-element-title">Masters Student</h3>
+                        <h4 className="vertical-timeline-element-subtitle">Johns Hopkins School of Advanced International Studies</h4>
+                        <p>
+                            MA International Relations, studying AI Policy and National Security
+                        </p>
+                    </VerticalTimelineElement>
+                    <VerticalTimelineElement
+                        className="vertical-timeline-element--work"
+                        contentStyle={{ background: 'rgb(33, 150, 243)', color: '#fff' }}
+                        contentArrowStyle={{ borderRight: '7px solid  rgb(33, 150, 243)' }}
                         date="2024 - present"
                         iconStyle={{ background: 'rgb(33, 150, 243)', color: '#fff' }}
                     >
                         <h3 className="vertical-timeline-element-title">Software Engineer 2</h3>
                         <h4 className="vertical-timeline-element-subtitle">Cvent Inc.</h4>
                         <p>
-                            Working on AI projects... Can't say much more than that.
+                            Developed and fine tuned AI writing assistant, built out consumer rendering for RAG based AI attendee facing virtual concierge
                         </p>
                     </VerticalTimelineElement>
                     <VerticalTimelineElement
