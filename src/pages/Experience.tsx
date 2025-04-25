@@ -23,26 +23,20 @@ export default function Experience() {
                     </VerticalTimelineElement>
                     <VerticalTimelineElement
                         className="vertical-timeline-element--work"
-                        contentStyle={{ background: 'rgb(33, 150, 243)', color: '#fff' }}
-                        contentArrowStyle={{ borderRight: '7px solid  rgb(33, 150, 243)' }}
-                        date="2024 - present"
-                        iconStyle={{ background: 'rgb(33, 150, 243)', color: '#fff' }}
+                        contentStyle={{background: 'rgb(33, 150, 243)', color: '#fff'}}
+                        contentArrowStyle={{borderRight: '7px solid  rgb(33, 150, 243)'}}
+                        date="2022 - present"
+                        iconStyle={{background: 'rgb(33, 150, 243)', color: '#fff'}}
                     >
                         <h3 className="vertical-timeline-element-title">Software Engineer 2</h3>
                         <h4 className="vertical-timeline-element-subtitle">Cvent Inc.</h4>
                         <p>
-                            Developed and fine tuned AI writing assistant, built out consumer rendering for RAG based AI attendee facing virtual concierge
+                            Developed and fine tuned AI writing assistant, built out consumer rendering for RAG based AI
+                            attendee facing virtual concierge
                         </p>
-                    </VerticalTimelineElement>
-                    <VerticalTimelineElement
-                        className="vertical-timeline-element--work"
-                        date="2022 - 2024"
-                        iconStyle={{ background: 'rgb(33, 150, 243)', color: '#fff' }}
-                    >
-                        <h3 className="vertical-timeline-element-title">Software Engineer</h3>
-                        <h4 className="vertical-timeline-element-subtitle">Cvent Inc.</h4>
                         <p>
-                            Worked on the Sessions and Speakers product, streamlined the cache reset process for lookups, and worked on multi language
+                            Worked on the Sessions and Speakers product, streamlined the cache reset process for
+                            lookups, and worked on multi language
                         </p>
                     </VerticalTimelineElement>
                     <VerticalTimelineElement
