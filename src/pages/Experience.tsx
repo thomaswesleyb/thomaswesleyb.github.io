@@ -25,7 +25,7 @@ export default function Experience() {
                         className="vertical-timeline-element--work"
                         contentStyle={{background: 'rgb(33, 150, 243)', color: '#fff'}}
                         contentArrowStyle={{borderRight: '7px solid  rgb(33, 150, 243)'}}
-                        date="2022 - present"
+                        date="2022 - 2025"
                         iconStyle={{background: 'rgb(33, 150, 243)', color: '#fff'}}
                     >
                         <h3 className="vertical-timeline-element-title">Software Engineer 2</h3>
@@ -36,7 +36,7 @@ export default function Experience() {
                         </p>
                         <p>
                             Worked on the Sessions and Speakers product, streamlined the cache reset process for
-                            lookups, and worked on multi language
+                            lookups, and worked on the multi language platform
                         </p>
                     </VerticalTimelineElement>
                     <VerticalTimelineElement
