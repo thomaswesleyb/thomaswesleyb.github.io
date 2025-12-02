@@ -5,7 +5,7 @@ export default function Home() {
         <section className="h-screen flex flex-col justify-center items-center bg-black text-white text-center">
             <h1 className="text-6xl font-bold mb-4">Hello, I'm Wesley</h1>
             <p className="text-neutral-400 text-lg">
-                I design and develop web applications.
+                I conduct policy research and build apps
             </p>
             <Link
                 to="/projects"
