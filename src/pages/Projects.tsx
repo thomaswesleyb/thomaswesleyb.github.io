@@ -2,7 +2,7 @@ import russianIdiomsImg from '../assets/russianidioms.png';
 
 export default function Projects() {
     return (
-        <section className="py-12 bg-white">
+        <section className="py-12 bg-gray-50">
             <div className="text-center mb-12">
                 <h2 className="text-4xl font-bold text-black">My Projects</h2>
                 <p className="text-neutral-500">A selection of my recent work</p>
