@@ -3,81 +3,36 @@
 @tailwind utilities;
 
 :root {
-  font-family: Inter, system-ui, Avenir, Helvetica, Arial, sans-serif;
-  line-height: 1.5;
-  font-weight: 400;
-
-  color-scheme: light dark;
-  --background-color: #242424;
-  --text-color: rgba(255, 255, 255, 0.87);
-}
-
-@media (prefers-color-scheme: dark) {
-  :root {
-    --background-color: #242424;
-    --text-color: rgba(255, 255, 255, 0.87);
-  }
-}
-
-@media (prefers-color-scheme: light) {
-  :root {
-    --background-color: #171717;
-    --text-color: #213547;
-  }
+  --font-sans: 'Inter', system-ui, sans-serif;
+  --font-mono: 'JetBrains Mono', 'Courier New', monospace;
+  --color-bg: #0a0a0a;
+  --color-surface: #111111;
+  --color-border: #1e1e1e;
+  --color-text: #e2e8f0;
+  --color-muted: #64748b;
+  --color-accent: #3b82f6;
+  --color-accent-dim: #1d4ed8;
 }
 
 body {
-  background-color: var(--background-color);
-  color: var(--text-color);
+  background-color: var(--color-bg);
+  color: var(--color-text);
+  font-family: var(--font-sans);
+  -webkit-font-smoothing: antialiased;
 }
 
 a {
-  font-weight: 500;
-  color: #646cff;
-  text-decoration: inherit;
+  color: inherit;
+  text-decoration: none;
 }
 
-a:hover, a:focus {
-  color: #535bf2;
-  outline: 2px solid #646cff;  /* Add outline for focus visibility */
+a:focus-visible {
+  outline: 2px solid var(--color-accent);
+  outline-offset: 2px;
+  border-radius: 2px;
 }
 
-button {
-  border-radius: 8px;
-  border: 1px solid transparent;
-  padding: 0.6em 1.2em;
-  font-size: 1em;
-  font-weight: 500;
-  font-family: inherit;
-  background-color: #1a1a1a;
-  cursor: pointer;
-  transition: background-color 0.25s, border-color 0.25s;
-}
-
-button:hover {
-  background-color: #2d2d2d;
-  border-color: #646cff;
-}
-
-button:focus,
 button:focus-visible {
-  outline: 4px auto -webkit-focus-ring-color;
+  outline: 2px solid var(--color-accent);
+  outline-offset: 2px;
 }
-
-h1 {
-  font-size: 3rem;
-  line-height: 1.1;
-}
-
-@media (max-width: 768px) {
-  h1 {
-    font-size: 2.5rem;
-  }
-}
-
-@media (prefers-color-scheme: light) {
-  button {
-    background-color: #f9f9f9;
-  }
-}
-
