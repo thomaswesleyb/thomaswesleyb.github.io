@@ -2,9 +2,38 @@
 <html lang="en">
   <head>
     <meta charset="UTF-8" />
-    <link rel="icon" type="image/svg+xml" href="/vite.svg" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta name="theme-color" content="#0a0a0a" />
+
+    <!-- Default meta (overridden per page by react-helmet-async) -->
     <title>T. Wesley Bailey</title>
+    <meta name="description" content="Technical geopolitical intelligence analyst specializing in Russian and Eurasian security, open-source intelligence, and AI applications in national security." />
+    <meta name="author" content="T. Wesley Bailey" />
+
+    <!-- Open Graph -->
+    <meta property="og:type" content="website" />
+    <meta property="og:title" content="T. Wesley Bailey" />
+    <meta property="og:description" content="Technical geopolitical intelligence analyst specializing in Russian and Eurasian security, OSINT, and AI in national security." />
+    <meta property="og:url" content="https://thomaswesleyb.github.io" />
+
+    <!-- Fonts -->
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=JetBrains+Mono:wght@400;500&family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet">
+
+    <!-- Favicon -->
+    <link rel="icon" type="image/svg+xml" href="/favicon.svg" />
+
+    <!-- SPA redirect handler -->
+    <script>
+      (function() {
+        var query = window.location.search;
+        if (query.startsWith('?path=')) {
+          var path = decodeURIComponent(query.slice(6));
+          window.history.replaceState(null, '', path);
+        }
+      })();
+    </script>
   </head>
   <body>
     <div id="root"></div>

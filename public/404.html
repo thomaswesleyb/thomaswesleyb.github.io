@@ -1,0 +1,17 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <script>
+    // GitHub Pages SPA 404 redirect
+    // Redirect paths like /about to /?path=/about so the SPA router can handle them
+    var path = window.location.pathname;
+    var query = window.location.search;
+    var hash = window.location.hash;
+    var redirectUrl = window.location.origin + '/?path=' +
+      encodeURIComponent(path + query) + hash;
+    window.location.replace(redirectUrl);
+  </script>
+</head>
+<body></body>
+</html>
