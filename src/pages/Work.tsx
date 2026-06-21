@@ -14,7 +14,7 @@ export default function Work() {
         <h1 className="text-3xl font-bold text-text-primary mb-2">Work</h1>
         <p className="text-text-muted mb-12">Selected software and research</p>
 
-        <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">
+        <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6 mb-12">
           <WorkCard
             type="software"
             title="Russian Idioms"
@@ -26,6 +26,20 @@ export default function Work() {
           />
           {/* TODO: Add research/analytical work cards as projects develop (see docs/overhaul.md §16) */}
         </div>
+
+        <p className="text-text-muted mb-12">Contributions</p>
+        
+        <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">
+          <WorkCard
+            type="research"
+            title="Global Terrorism Threat Assessment"
+            description="I contributed to CSIS's Global Terrorism Threat Assessment, conducting extensive research on terrorism cases"
+            tags={['Terrorism', 'Research', 'OSINT']}
+            href="https://www.csis.org/analysis/global-terrorism-threat-assessment-2026"
+          />
+
+        </div>
+        
       </section>
     </>
   );
