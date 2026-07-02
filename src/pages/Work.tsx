@@ -17,12 +17,9 @@ export default function Work() {
         <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6 mb-12">
           <WorkCard
             type="software"
-            title="Russian Idioms"
-            description="A database application for Russian idiomatic expressions. Users can submit new idioms, study existing ones, and build personal collections."
-            tags={['Russian', 'TypeScript', 'Full-Stack']}
-            href="https://russianidioms.com"
-            imageUrl={russianIdiomsImg}
-            imageAlt="Russian Idioms application screenshot"
+            title="Event Coreference Resolution for Conflict Strike Data"
+            description="Coming soon..."
+            tags={['Iran', 'NLP', 'Python', 'Entity Resolution']}
           />
           {/* TODO: Add research/analytical work cards as projects develop (see docs/overhaul.md §16) */}
         </div>
