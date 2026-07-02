@@ -37,7 +37,13 @@ export default function Work() {
             tags={['Terrorism', 'Research', 'OSINT']}
             href="https://www.csis.org/analysis/global-terrorism-threat-assessment-2026"
           />
-
+          <WorkCard
+            type="research"
+            title="The Ballooning Costs of Russian War"
+            description="I conducted research for this CSIS brief, featured in NYT and CNN"
+            tags={['Russia', 'Research', 'OSINT']}
+            href="https://www.csis.org/analysis/russian-blood-and-treasure-ballooning-costs-putins-war"
+          />
         </div>
         
       </section>
