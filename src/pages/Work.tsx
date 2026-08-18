@@ -1,6 +1,5 @@
 import { MetaTags } from '../components/MetaTags';
 import { WorkCard } from '../components/WorkCard';
-import russianIdiomsImg from '../assets/russianidioms.png';
 
 export default function Work() {
   return (
