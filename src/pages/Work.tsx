@@ -16,6 +16,12 @@ export default function Work() {
 
         <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6 mb-12">
           <WorkCard
+            type="research"
+            title="Russia's Cap on Partner Aid: Institutional Rigidity and the Limits of External Support"
+            description="This piece explores Russia's partnerships and the limits of their military support"
+            tags={['Russia', 'China', 'CRINK', 'Ukraine', 'C5ISRT']}
+          />
+          <WorkCard
             type="software"
             title="Event Coreference Resolution for Conflict Strike Data"
             description="Coming soon..."
