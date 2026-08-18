@@ -19,6 +19,7 @@ export default function Work() {
             title="Russia's Cap on Partner Aid: Institutional Rigidity and the Limits of External Support"
             description="This piece explores Russia's partnerships and the limits of their military support"
             tags={['Russia', 'China', 'CRINK', 'Ukraine', 'C5ISRT']}
+            href="https://www.csis.org/analysis/russias-cap-partner-aid-institutional-rigidity-and-limits-external-support"
           />
           <WorkCard
             type="software"
