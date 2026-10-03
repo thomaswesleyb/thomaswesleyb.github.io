@@ -48,7 +48,24 @@ export default function Work() {
             href="https://www.csis.org/analysis/russian-blood-and-treasure-ballooning-costs-putins-war"
           />
         </div>
-        
+
+        <p className="text-text-muted mb-12">Other Work</p>
+        <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">
+          <WorkCard
+            type="writing"
+            title="10 Days in Ukraine: Witnessing Russia's New Phase of War "
+            description="I wrote a piece on my experience in Ukraine"
+            tags={['Ukraine', 'Russia', 'OSINT']}
+          />
+          <WorkCard
+            type="research"
+            title="ChinaTalk AI & Nukes Policy Paper Finalist"
+            description="I coauthored a piece with Alexei Hoffman on Machine Learning techniques for Chinese nuclear silos"
+            tags={['China', 'Nuclear Deterrence', 'OSINT', 'GIS', 'Machine Learning']}
+            href="https://github.com/thomaswesleyb/Bailey-Hoffman-AI-Nukes-Submission"
+          />
+        </div>
+
       </section>
     </>
   );

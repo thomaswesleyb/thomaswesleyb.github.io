@@ -1,5 +1,5 @@
 interface WorkCardProps {
-  type: 'software' | 'research';
+  type: 'software' | 'research' | 'writing';
   title: string;
   description: string;
   tags: string[];
