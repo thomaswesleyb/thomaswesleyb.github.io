@@ -17,8 +17,8 @@ export default function Work() {
           <WorkCard
             type="research"
             title="Russia's Cap on Partner Aid: Institutional Rigidity and the Limits of External Support"
-            description="This piece explores Russia's partnerships and the limits of their military support"
-            tags={['Russia', 'China', 'CRINK', 'Ukraine', 'C5ISRT']}
+            description="This piece explores Russia's partnerships and the limits of their military support using original Russian-language research"
+            tags={['Russia', 'China', 'CRINK', 'Ukraine', 'C5ISRT', 'Russian-language Research']}
             href="https://www.csis.org/analysis/russias-cap-partner-aid-institutional-rigidity-and-limits-external-support"
           />
           <WorkCard
@@ -56,6 +56,7 @@ export default function Work() {
             title="10 Days in Ukraine: Witnessing Russia's New Phase of War "
             description="I wrote a piece on my experience in Ukraine"
             tags={['Ukraine', 'Russia', 'OSINT']}
+            href="https://saisobserver.org/2026/10/07/10-days-in-ukraine-witnessing-russias-new-phase-of-war/"
           />
           <WorkCard
             type="research"
